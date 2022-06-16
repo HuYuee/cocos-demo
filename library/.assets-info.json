@@ -1,10 +1,42 @@
 {
-  "/Users/erichu/work/work/cocos-demo/assets/main-scnse.scene.meta": {
+  "/Users/erichu/work/work/cocos-demo/assets/img.meta": {
+    "time": 1655294673825.881
+  },
+  "/Users/erichu/work/work/cocos-demo/assets/img": {
+    "time": 1655350111843.3972,
+    "uuid": "156212a5-aabe-48f7-a044-29c35d5b3f0e",
+    "missing": false
+  },
+  "/Users/erichu/work/work/cocos-demo/assets/img/bg.png.meta": {
+    "time": 1655350263172.455
+  },
+  "/Users/erichu/work/work/cocos-demo/assets/img/bg.png": {
+    "time": 1655294677501.1113,
+    "uuid": "6fec817c-de5a-4216-a7f3-ea1f99f5999b",
+    "missing": false
+  },
+  "/Users/erichu/work/work/cocos-demo/assets/scene.meta": {
+    "time": 1655350200443.856
+  },
+  "/Users/erichu/work/work/cocos-demo/assets/scene": {
+    "time": 1655350214663.7046,
+    "uuid": "0e25f69b-8236-4bd5-aef9-2a2cdd1465ad",
+    "missing": false
+  },
+  "/Users/erichu/work/work/cocos-demo/assets/scene/main-scene.scene.meta": {
     "time": 1655293415954.81
   },
-  "/Users/erichu/work/work/cocos-demo/assets/main-scnse.scene": {
-    "time": 1655293415950.7356,
+  "/Users/erichu/work/work/cocos-demo/assets/scene/main-scene.scene": {
+    "time": 1655350328886.3135,
     "uuid": "b6674610-a1fb-4b66-9671-a39475c4d478",
+    "missing": false
+  },
+  "/Users/erichu/work/work/cocos-demo/assets/js.meta": {
+    "time": 1655350220505.06
+  },
+  "/Users/erichu/work/work/cocos-demo/assets/js": {
+    "time": 1655350220503.8423,
+    "uuid": "3f7e61ad-c2e6-40c6-a3b8-f8b7a5370478",
     "missing": false
   }
 }

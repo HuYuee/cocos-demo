@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+        "version": "Darwin Kernel Version 21.4.0: Fri Mar 18 00:45:05 PDT 2022; root:xnu-8020.101.4~15/RELEASE_X86_64"
+    },
+    "sceneListMap": {
+        "b6674610-a1fb-4b66-9671-a39475c4d478": "/Users/erichu/work/work/cocos-demo/assets/main-scnse.scene"
+    },
+    "deviceMd5": "e671617361fd291e957ebe7d431095b9"
+}

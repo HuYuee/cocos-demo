@@ -144,3 +144,15 @@
 2022-06-15T11:38:12.333Z - verbose: [Scene] Open engine (377ms)
 2022-06-15T11:38:12.333Z - verbose: [Scene] Configure engine (0ms)
 2022-06-15T11:38:12.081Z - info: [Scene] Forward render pipeline initialized.
+2022-06-15T12:07:44.060Z - error: [Scene] Can't add component 'cc.Sprite' because Sprite already contains the same component.Error: Can't add component 'cc.Sprite' because Sprite already contains the same component.
+    at Node._checkMultipleComp (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:150897:17)
+    at Node.addComponent (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:152986:12)
+    at NodeManager.createComponent (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/node/index.ccc:1:9561)
+    at GeneralSceneFacade.createComponent (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/general-scene-facade.ccc:1:9696)
+    at SceneFacadeManager.createComponent (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:16710)
+    at step (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc.ccc:1:704)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc.ccc:1:1545
+    at new Promise (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc.ccc:1:1482
+    at EventEmitter.<anonymous> (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/public/ipc/webview.ccc:1:767)
+2022-06-16T01:52:09.105Z - error: getImSetting failed
